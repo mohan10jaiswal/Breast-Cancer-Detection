@@ -7,6 +7,8 @@ Dataset Overview::
 ->dataset containing various features extracted from breast cancer biopsies, such as radius, texture, perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension. 
 -> Data set was Non_filtered initally ,  removed null values and filtered the data set before applying ML algo .
 ->The dataset also includes the diagnosis label indicating whether the tumor is malignant (M) or benign (B).
+
+
 What We Did::
 ->Evaluated the performance of each model using accuracy, which measures the proportion of correctly predicted instances out of all instances in the testing set. Additionally, we computed other evaluation metrics such as precision, recall, and F1-score to provide a comprehensive assessment of each model's performance.
 ->Applied Logistic Regression , Decision Tree , Random Forest
