@@ -9,7 +9,7 @@ Dataset Overview::
 ->The dataset also includes the diagnosis label indicating whether the tumor is malignant (M) or benign (B).
 
 
-What We Did::
+What We Did
 ->Evaluated the performance of each model using accuracy, which measures the proportion of correctly predicted instances out of all instances in the testing set. Additionally, we computed other evaluation metrics such as precision, recall, and F1-score to provide a comprehensive assessment of each model's performance.
 ->Applied Logistic Regression , Decision Tree , Random Forest
 ->Evaluate accuracy of each model and came in to concusion which model is best. 
